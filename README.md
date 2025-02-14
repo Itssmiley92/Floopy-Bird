@@ -1,1 +1,1 @@
-A flappy bird ripoff game that i madde in my free time
+A flappy bird ripoff game that i made in my free time
